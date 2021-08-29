@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://spareacc.github.io/csb-mpzxj/static/css/main.d48aca6b.chunk.css",
+    "main.js": "https://spareacc.github.io/csb-mpzxj/static/js/main.b30b0c22.chunk.js",
+    "main.js.map": "https://spareacc.github.io/csb-mpzxj/static/js/main.b30b0c22.chunk.js.map",
+    "runtime-main.js": "https://spareacc.github.io/csb-mpzxj/static/js/runtime-main.018d9085.js",
+    "runtime-main.js.map": "https://spareacc.github.io/csb-mpzxj/static/js/runtime-main.018d9085.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://spareacc.github.io/csb-mpzxj/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://spareacc.github.io/csb-mpzxj/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://spareacc.github.io/csb-mpzxj/index.html",
+    "static/css/main.d48aca6b.chunk.css.map": "https://spareacc.github.io/csb-mpzxj/static/css/main.d48aca6b.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://spareacc.github.io/csb-mpzxj/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.018d9085.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.d48aca6b.chunk.css",
+    "static/js/main.b30b0c22.chunk.js"
+  ]
+}
